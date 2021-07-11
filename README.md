@@ -13,4 +13,9 @@ Day 3 (July 8th, 2021)
 1. Supervised learning algorithms are trained using labeled data and the model predicts an outcome. In unsupervised learning, the data is unlabeled and the model finds patterns. 
 2. Scikit-learn is used for machine learning calculations and modelling. Therfore, other libraries must be used when loading, handling, manipulating, and visualising the data.  
 
+Day 4 (July 9th, 2021)
+
+Social media is becoming increasingly common in today's digital world. However, along with the positive benefis, social media has drawbacks as well including its affect on anxiety levels. Using a dataset with anxiety levels, I can predict anxiety levels among differnt age groups. 
+Here is the link to my dataset from kaggle : https://www.kaggle.com/ruchi798/stress-analysis-in-social-media
+By predicting levels of anxiety, a potential solution can be found to help. I would use regression because it will allow me to find which variables have impact on anxiety (age, social media usage, etc.) 
 
