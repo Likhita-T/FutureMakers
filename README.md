@@ -19,3 +19,10 @@ Social media is becoming increasingly common in today's digital world. However, 
 Here is the link to my dataset from kaggle : https://www.kaggle.com/ruchi798/stress-analysis-in-social-media
 By predicting levels of anxiety, a potential solution can be found to help. I would use regression because it will allow me to find which variables have impact on anxiety (age, social media usage, etc.) 
 
+Day 7 (July 12th, 2021)
+
+1. Tensors are multidimensional arrays and they are mathematical objects in data. Tensors are important in machine learning because they are a type of data structure and help encode the data.  
+2. The computations that you ran in the TensorFlow
+programs (i.e. interactive models) in the tutorial?
+
+
