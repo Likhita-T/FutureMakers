@@ -22,7 +22,8 @@ By predicting levels of anxiety, a potential solution can be found to help. I wo
 Day 7 (July 12th, 2021)
 
 1. Tensors are multidimensional arrays and they are mathematical objects in data. Tensors are important in machine learning because they are a type of data structure and help encode the data.  
-2. The computations that you ran in the TensorFlow
-programs (i.e. interactive models) in the tutorial?
+2. Tensors involved calculations and splitting the dataset into train and test sets. Weights, biases, and lambdas were encoded and the multidimensional arrays are part of linear algebra.
 
+Day 8 (July 13th, 2021)
 
+I learned about Neural Networks and its bulding blocks and how it relates to the human brain. An activation function determines whether or not a neuron should be activated by calculating the weighted sum and adding bias. In perceptron functionality, an artificial neural network will take inputs and multiply them with the weights. Then, the resulting multiplied vlalues will be added as the weighted sum. Lastly, the weighted sum will applied to the proper activation function. ANNs also have various dimensions based on the amount of hidden layers and connection patterns. The backpropagation algorithm propagates backwards by finding the derivative of error with respect to the corresponding weight and  subtracting the value from the weight value to minimize the error. In forward-feedback, the model propagates forward to get the output and compares it with the real value to get the error estimate. 
