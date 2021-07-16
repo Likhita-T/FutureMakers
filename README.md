@@ -31,3 +31,7 @@ I learned about Neural Networks and its bulding blocks and how it relates to the
 Day 9 (July 14th, 2021)
 
 I learned about convolutional neural networks and how its used for images since each image is amatrix of pixel values. A kernel is a matrix of weights. Once the feature maprs are extracted, they are moved to an activation layer, more specifically ReLU. The pooling operation reduces the size of the feature map by taking the maximum value in a block. 
+
+Day 10 (July 15th, 2021)
+
+I learned about the types of biases and considerations for a non-biased algorithm. AI can be biased; AI bias is the  prejudice in data. I also learned about the causes of bias. 
