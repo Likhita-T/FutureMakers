@@ -28,6 +28,6 @@ Day 8 (July 13th, 2021)
 
 I learned about Neural Networks and its bulding blocks and how it relates to the human brain. An activation function determines whether or not a neuron should be activated by calculating the weighted sum and adding bias. In perceptron functionality, an artificial neural network will take inputs and multiply them with the weights. Then, the resulting multiplied vlalues will be added as the weighted sum. Lastly, the weighted sum will applied to the proper activation function. ANNs also have various dimensions based on the amount of hidden layers and connection patterns. The backpropagation algorithm propagates backwards by finding the derivative of error with respect to the corresponding weight and  subtracting the value from the weight value to minimize the error. In forward-feedback, the model propagates forward to get the output and compares it with the real value to get the error estimate.
 
-Day 9 (July 15th, 2021)
+Day 9 (July 14th, 2021)
 
 I learned about convolutional neural networks and how its used for images since each image is amatrix of pixel values. A kernel is a matrix of weights. Once the feature maprs are extracted, they are moved to an activation layer, more specifically ReLU. The pooling operation reduces the size of the feature map by taking the maximum value in a block. 
