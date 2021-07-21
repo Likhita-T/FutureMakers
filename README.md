@@ -42,3 +42,12 @@ I chose this specific biased model because Amazon is a huge global tech-reliant 
 Day 11 (July 16th, 2021)
 ----------
 A convolutional neural network is more specialized efficient when compared to a fully connected neural network. In a fully connected layer, each neuron is connected to the neurons in each layer. Additionally, in a fully connected layer each connection has it's own particular weight and the model makes no assumptions about the features in the data. On the other hand, in a convolutional neural network, the neurons are connected with surrounding neurons. All neurons consist of the same weight. In neural networks, For Convolutional Neural network architecture, there are 3 convolutional layers with an activation function, such as as reLU, and a max pool layer after the first convolutional layer.
+
+Day 14 (July 19, 2021)
+-------
+A loss function portrays the error of the model between the predicted value and actual value to evaluate the algorithm.  
+
+Day 15 (July 20th, 2021)
+-----------------
+I learned about activation functions which determine whether a neuron should be activated or not. 
+ReLU is the most commonly used activation layer for hidden layers. ReLU is much faster compared to the other activation functions, such as sigmoid or Tanh. Another advantage is that the network is sparse which means its easier and more efficient for computation. 
